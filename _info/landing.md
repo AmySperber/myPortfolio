@@ -1,5 +1,5 @@
 ---
-title: My Portfolio
+title: Amys work
 name: landing.md
 image: me.jpg
 ---
